@@ -17,7 +17,6 @@ This section details the implementation of three core Codelabs on AI agents usin
 
 **Deliverables:**
 - 📂 **Code:** [https://github.com/rutuja-patil24/CMPE-297-Special-Topics/tree/main/agentic-apps/renovation-agent]
-- 🎥 **Video Walkthrough:** [Link to YouTube Video for Codelab 1]
 
 ---
 
@@ -27,7 +26,6 @@ This section details the implementation of three core Codelabs on AI agents usin
 
 **Deliverables:**
 - 📂 **Code:** [https://github.com/rutuja-patil24/CMPE-297-Special-Topics/tree/main/Building%20AI%20Agents%20with%20ADK]
-- 🎥 **Video Walkthrough:** [Link to YouTube Video for Codelab 2]
 
 ---
 
@@ -37,7 +35,6 @@ This section details the implementation of three core Codelabs on AI agents usin
 
 **Deliverables:**
 - 📂 **Code:** [https://github.com/rutuja-patil24/CMPE-297-Special-Topics/tree/main/Build%20a%20Travel%20Agent%20using%20MCP%20Toolbox%20for%20Databases%20and%20ADK]
-- 🎥 **Video Walkthrough:** [Link to YouTube Video for Codelab 3]
 
 ---
 
@@ -50,6 +47,7 @@ This section showcases the implementation of an agent application selected from 
 **Deliverables:**
 - **Selected Hackathon Project:** [Link to specific project from the repository]
 - 📂 **Code:** [https://github.com/rutuja-patil24/CMPE-297-Special-Topics/tree/main/Agent%20Application%20from%20a%20Hackathon]
-- 🎥 **App Walkthrough Demo Video:** [Link to YouTube Video for Part B Project]
 
 ---
+
+- 🎥 **App Walkthrough Demo Video:** [https://youtu.be/_rRvDmHt5KU]
