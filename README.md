@@ -16,7 +16,7 @@ This section details the implementation of three core Codelabs on AI agents usin
 **Task:** Implement the Codelab "From Prototypes to Agents with ADK" which introduces the fundamentals of moving from basic prototypes to fully functional agents with the ADK.
 
 **Deliverables:**
-- 📂 **Code:** [Link to GitHub Repository for Codelab 1]
+- 📂 **Code:** [https://github.com/rutuja-patil24/CMPE-297-Special-Topics/tree/main/agentic-apps/renovation-agent]
 - 🎥 **Video Walkthrough:** [Link to YouTube Video for Codelab 1]
 
 ---
@@ -26,7 +26,7 @@ This section details the implementation of three core Codelabs on AI agents usin
 **Task:** Implement the Codelab "Building AI Agents with ADK: Empowering with Tools" which explores how to enhance AI agents by giving them the ability to use external **tools**.
 
 **Deliverables:**
-- 📂 **Code:** [Link to GitHub Repository for Codelab 2]
+- 📂 **Code:** [https://github.com/rutuja-patil24/CMPE-297-Special-Topics/tree/main/agentic-apps/renovation-agent]
 - 🎥 **Video Walkthrough:** [Link to YouTube Video for Codelab 2]
 
 ---
@@ -36,7 +36,7 @@ This section details the implementation of three core Codelabs on AI agents usin
 **Task:** Implement the Codelab "Build a Travel Agent using MCP Toolbox for Databases and ADK" focusing on building a more complex agent—a travel agent—by combining the ADK with the **MCP Toolbox** for database interactions.
 
 **Deliverables:**
-- 📂 **Code:** [Link to GitHub Repository for Codelab 3]
+- 📂 **Code:** [https://github.com/rutuja-patil24/CMPE-297-Special-Topics/tree/main/agentic-apps/renovation-agent]
 - 🎥 **Video Walkthrough:** [Link to YouTube Video for Codelab 3]
 
 ---
