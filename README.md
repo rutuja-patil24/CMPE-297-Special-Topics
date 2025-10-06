@@ -1,4 +1,4 @@
-```markdown
+
 # Assignment - AI Agents with ADK 
 
 ## Overview
