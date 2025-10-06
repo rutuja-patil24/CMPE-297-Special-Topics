@@ -49,7 +49,7 @@ This section showcases the implementation of an agent application selected from 
 
 **Deliverables:**
 - **Selected Hackathon Project:** [Link to specific project from the repository]
-- 📂 **Code:** [Link to GitHub Repository for Part B Project]
+- 📂 **Code:** [https://github.com/rutuja-patil24/CMPE-297-Special-Topics/tree/main/Agent%20Application%20from%20a%20Hackathon]
 - 🎥 **App Walkthrough Demo Video:** [Link to YouTube Video for Part B Project]
 
 ---
