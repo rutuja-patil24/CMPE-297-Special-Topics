@@ -26,7 +26,7 @@ This section details the implementation of three core Codelabs on AI agents usin
 **Task:** Implement the Codelab "Building AI Agents with ADK: Empowering with Tools" which explores how to enhance AI agents by giving them the ability to use external **tools**.
 
 **Deliverables:**
-- 📂 **Code:** [https://github.com/rutuja-patil24/CMPE-297-Special-Topics/tree/main/agentic-apps/renovation-agent]
+- 📂 **Code:** [https://github.com/rutuja-patil24/CMPE-297-Special-Topics/tree/main/Building%20AI%20Agents%20with%20ADK]
 - 🎥 **Video Walkthrough:** [Link to YouTube Video for Codelab 2]
 
 ---
