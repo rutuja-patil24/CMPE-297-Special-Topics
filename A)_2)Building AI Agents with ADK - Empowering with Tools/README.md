@@ -13,21 +13,7 @@ The AI agent can answer real-time questions by integrating:
 
 ## 📽️ Demo Video
 
-🎥 Watch Demo: **[Add your video link here]**
-
----
-
-## 📸 Project Screenshots
-
-| ADK Web UI | Currency Exchange Tool |
-|------------|------------------------|
-| ![UI](screenshots/adk_ui.png) | ![FX](screenshots/fx_tool.png) |
-
-| Google Search Agent | Wikipedia Tool |
-|---------------------|----------------|
-| ![Google Search](screenshots/google_search.png) | ![Wikipedia](screenshots/wiki_tool.png) |
-
-> Place your screenshots under `/screenshots` and update the file names accordingly.
+🎥 Watch Demo: **[https://youtu.be/PqjsqpTDouY]**
 
 ---
 
