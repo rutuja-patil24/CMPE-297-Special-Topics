@@ -4,6 +4,12 @@ This project is a **Renovation Proposal Generation Agent** built using the **Goo
 
 ---
 
+
+## 🎥 Video Link
+
+-   **Project Walkthrough Demo Video:** [https://youtu.be/YOMeqQ3cTF0]
+---
+
 ## Features
 
 - ✅ Natural Language Understanding (Ask in plain English)
@@ -55,9 +61,4 @@ agentic-apps/
 - Google API Key (from Google AI Studio)
 - Cloud Storage Bucket created
 
----
-
-## 🎥 Video Link
-
--   **Project Walkthrough Demo Video:** [https://youtu.be/YOMeqQ3cTF0]
 ---
