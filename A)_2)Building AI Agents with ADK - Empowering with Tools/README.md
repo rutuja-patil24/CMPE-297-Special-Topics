@@ -17,6 +17,17 @@ The AI agent can answer real-time questions by integrating:
 
 ---
 
+## 📸 Screenshots
+| ADK Web UI | Currency Exchange |
+|------------|------------------|
+| ![UI](screenshots/adk_ui.png) | ![FX](screenshots/fx_tool.png) |
+
+| Google Search Agent | Wikipedia Tool |
+|---------------------|----------------|
+| ![Search](screenshots/google_search.png) | ![Wiki](screenshots/wiki_tool.png) |
+
+---
+
 ## 🗂️ Project Structure
 
 ai-agents-adk/
