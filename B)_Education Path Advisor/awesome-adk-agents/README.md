@@ -73,6 +73,11 @@ EOF
 poetry run adk web
 ```
 
+## 🎥 Video Link
+
+-   **Project Walkthrough Demo Video:** [https://youtu.be/YOMeqQ3cTF0]
+---
+
 ## 📂 Project Structure
 
 📦 education-path-advisor
