@@ -34,7 +34,7 @@ This section details the implementation of three core Codelabs on AI agents usin
 **Task:** Implement the Codelab "Build a Travel Agent using MCP Toolbox for Databases and ADK" focusing on building a more complex agent—a travel agent—by combining the ADK with the **MCP Toolbox** for database interactions.
 
 **Deliverables:**
-- 📂 **Code:** [https://github.com/rutuja-patil24/CMPE-297-Special-Topics/tree/main/A)_3)Build%20a%20Travel%20Agent%20using%20MCP%20Toolbox%20for%20Databases%20and%20Agent%20Development%20Kit%20(ADK)]
+- 📂 **Code:** [https://github.com/rutuja-patil24/CMPE-297-Special-Topics/tree/main/A)_3)Build%20a%20Travel%20Agent%20using%20MCP%20Toolbox%20for%20Databases%20and%20Agent%20Development%20Kit%20(ADK) ]
 
 ---
 
