@@ -78,6 +78,11 @@ poetry run adk web
 -   **Project Walkthrough Demo Video:** [https://youtu.be/YOMeqQ3cTF0]
 ---
 
+## 🗺️ System Architecture (Mermaid Diagram)
+
+<img src="system_architecture.png" alt="System Architecture" width="600">
+
+---
 ## 📂 Project Structure
 
 📦 education-path-advisor
