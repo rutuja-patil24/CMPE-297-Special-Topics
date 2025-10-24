@@ -1,4 +1,4 @@
-# A) 1)  Renovation Proposal Agent using Google ADK
+# Renovation Proposal Agent using Google ADK
 
 This project is a **Renovation Proposal Generation Agent** built using the **Google Agent Development Kit (ADK)** and **Gemini AI**. The agent accepts natural language renovation requests from users, generates a **professional proposal document**, converts it into a **PDF**, and uploads it automatically to **Google Cloud Storage (GCS)**.
 
