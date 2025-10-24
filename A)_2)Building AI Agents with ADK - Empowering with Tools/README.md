@@ -20,18 +20,27 @@ The AI agent can answer real-time questions by integrating:
 ## 🗂️ Project Structure
 
 ai-agents-adk/
+
 │
+
 ├── personal_assistant/
+
 │ ├── .env
+
 │ ├── init.py
+
 │ ├── agent.py
+
 │ ├── custom_functions.py
+
 │ ├── custom_agents.py
+
 │ ├── third_party_tools.py
+
 │
+
 ├── screenshots/
-│
-├── requirements.txt
+
 └── README.md
 
 
