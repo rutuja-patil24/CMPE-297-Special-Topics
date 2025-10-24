@@ -45,9 +45,7 @@ This section showcases the implementation of an agent application selected from 
 **Task:** Select and implement an agent application from the [awesome-adk-agents repository](https://github.com/Sri-Krishna-V/awesome-adk-agents).
 
 **Deliverables:**
-- **Selected Hackathon Project:** [Link to specific project from the repository]
-- 📂 **Code:** [https://github.com/rutuja-patil24/CMPE-297-Special-Topics/tree/main/Agent%20Application%20from%20a%20Hackathon]
+- 📂 **Code:** [https://github.com/rutuja-patil24/CMPE-297-Special-Topics/tree/main/B)_Education%20Path%20Advisor/awesome-adk-agents]
 
 ---
 
-- 🎥 **App Walkthrough Demo Video:** [https://youtu.be/_rRvDmHt5KU]
