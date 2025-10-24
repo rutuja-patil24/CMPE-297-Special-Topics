@@ -1,4 +1,4 @@
-# 🌍 AI Travel Assistant using Google ADK (Agent Development Kit)
+# Building AI Agents with ADK: Empowering with Tools
 
 This project demonstrates a modular AI system using **Google’s Agent Development Kit (ADK)**.  
 The AI agent can answer real-time questions by integrating:
@@ -33,7 +33,7 @@ The AI agent can answer real-time questions by integrating:
 
 ## 🗂️ Project Structure
 
-ai-travel-assistant/
+ai-agents-adk/
 │
 ├── personal_assistant/
 │ ├── .env
@@ -47,3 +47,16 @@ ai-travel-assistant/
 │
 ├── requirements.txt
 └── README.md
+
+
+---
+
+## ✅ Features
+✅ Multi-Agent System  
+✅ Real-time Currency Conversion  
+✅ Live Google Search Integration  
+✅ Wikipedia Knowledge Lookup  
+✅ Extensible Tool Architecture  
+✅ ADK Web UI Support  
+
+---
