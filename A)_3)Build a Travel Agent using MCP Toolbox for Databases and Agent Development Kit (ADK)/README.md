@@ -6,8 +6,7 @@
 
 ## 🎥 Demo Video
 
-**YouTube:** https://youtu.be/YOUR_VIDEO_ID  
-*(Replace with your uploaded link.)*
+**YouTube:** https://youtu.be/m-kIaIfKcL0
 
 ---
 
