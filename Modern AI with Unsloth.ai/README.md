@@ -17,9 +17,6 @@ Includes chat templates, input formatting, training parameters, and evaluation.
 **Colab Notebook:**  
 👉 https://colab.research.google.com/drive/1doJ0bfPEusTuhUE58Tx4T6LPqnsXbjbF?usp=sharing
 
-**YouTube Video:**  
-👉 *Add your video link here*
-
 ---
 
 ## ✅ Colab 2 — LoRA Finetuning (SmolLM2-135M)
@@ -31,9 +28,6 @@ Shows LoRA configuration, rank, alpha, dropout, merging, and inference.
 **Colab Notebook:**  
 👉 https://colab.research.google.com/drive/18Pjr2Wo5I5ZuYKpjqCEPK3JpxKKhidMY?usp=sharing
 
-**YouTube Video:**  
-👉 *Add your video link here*
-
 ---
 
 ## ✅ Colab 3 — Reinforcement Learning (Preference Dataset)
@@ -43,10 +37,7 @@ Reinforcement learning using a dataset containing `prompt`, `chosen`, and `rejec
 Demonstrates RLHF-style training and behavior improvement.
 
 **Colab Notebook:**  
-👉 *Add your Colab link here*
-
-**YouTube Video:**  
-👉 *Add your video link here*
+👉 https://colab.research.google.com/drive/1sRI0rp_zxLRwH2WAVZMODoI7F7Nk4EjX?usp=sharing
 
 ---
 
@@ -86,8 +77,6 @@ Demonstrates tokenizer behavior, extended vocabulary learning, and inference.
 - colab4_grpo_reasoning.ipynb
 - colab5_continued_pretraining.ipynb
 - README.md
-
-
 
 ---
 
