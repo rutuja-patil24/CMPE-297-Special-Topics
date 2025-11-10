@@ -15,7 +15,7 @@ Full finetuning of the smollm2-135M model on a chat or coding dataset.
 Includes chat templates, input formatting, training parameters, and evaluation.
 
 **Colab Notebook:**  
-👉 *Add your Colab link here*
+👉 https://colab.research.google.com/drive/1doJ0bfPEusTuhUE58Tx4T6LPqnsXbjbF?usp=sharing
 
 **YouTube Video:**  
 👉 *Add your video link here*
