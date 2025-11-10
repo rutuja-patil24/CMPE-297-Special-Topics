@@ -29,7 +29,7 @@ LoRA parameter-efficient finetuning using the same dataset as Colab 1.
 Shows LoRA configuration, rank, alpha, dropout, merging, and inference.
 
 **Colab Notebook:**  
-👉 *Add your Colab link here*
+👉 https://colab.research.google.com/drive/18Pjr2Wo5I5ZuYKpjqCEPK3JpxKKhidMY?usp=sharing
 
 **YouTube Video:**  
 👉 *Add your video link here*
