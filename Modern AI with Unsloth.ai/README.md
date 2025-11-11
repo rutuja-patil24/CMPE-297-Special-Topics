@@ -48,10 +48,7 @@ Training a reasoning model using GRPO (Group Relative Policy Optimization).
 Uses problem-only datasets and multiple candidate answers with group scoring.
 
 **Colab Notebook:**  
-👉 *Add your Colab link here*
-
-**YouTube Video:**  
-👉 *Add your video link here*
+👉 https://colab.research.google.com/drive/16zcn-BjCOjlQA00aIz_0GiMSsB5Ws3NB?usp=sharing
 
 ---
 
@@ -62,21 +59,8 @@ Continued pretraining of the base model on a new language or domain dataset.
 Demonstrates tokenizer behavior, extended vocabulary learning, and inference.
 
 **Colab Notebook:**  
-👉 *Add your Colab link here*
+👉 https://colab.research.google.com/drive/1U2D0teeGbIJ68RZSe_MYlmjV38aYLmId?usp=sharing
 
-**YouTube Video:**  
-👉 *Add your video link here*
-
----
-
-## ✅ Files Included
-
-- colab1_full_finetuning.ipynb
-- colab2_lora_finetuning.ipynb
-- colab3_reinforcement_learning.ipynb
-- colab4_grpo_reasoning.ipynb
-- colab5_continued_pretraining.ipynb
-- README.md
 
 ---
 
