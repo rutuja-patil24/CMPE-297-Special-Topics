@@ -64,6 +64,11 @@ Demonstrates tokenizer behavior, extended vocabulary learning, and inference.
 
 ---
 
+## 🎥 Demo Video
+
+**YouTube:** https://youtu.be/m-kIaIfKcL0
+
+---
 ## ✅ Summary
 
 This project demonstrates the complete modern LLM development workflow using Unsloth.ai:
