@@ -47,7 +47,7 @@ This paper provides a **comprehensive and cross-domain survey** of how AI agents
 
 📖 **Read the article here**:
 
-👉
+👉 https://medium.com/@rutujabhaskarrao.patil/how-multi-agent-coordination-is-powering-the-next-wave-of-ai-from-robots-and-satellites-to-llm-cfe6f52aa95b
 
 ---
 
@@ -55,7 +55,7 @@ This paper provides a **comprehensive and cross-domain survey** of how AI agents
 
 📺 **Watch the walkthrough video:**  
 
-👉
+👉 
 
 ---
 
@@ -63,7 +63,7 @@ This paper provides a **comprehensive and cross-domain survey** of how AI agents
 
 📑 **Access the slides:**  
 
-👉 
+👉 https://www.slideshare.net/slideshow/multi-agent-coordination-across-diverse-applications-pptx/284518568
 
 ---
 
